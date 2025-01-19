@@ -26,8 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Step 1 Create a Virtual Machine (both windows and linux) and Resource Group
 - Step 2 Install Wireshark
-- Step 3 Configuring a Firewall
-- Step 4 Observe differnt types of traffic (SSH, RDH, DNS, HTTP/S, ICMP) using ping, ipconfig and nslookup
+- Step 3 Observe differnt types of traffic (SSH, RDH, DNS, HTTP/S, ICMP) using ping, ipconfig and nslookup
 
 <h2>Actions and Observations</h2>
 
